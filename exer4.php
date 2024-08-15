@@ -68,7 +68,7 @@
             ($exper == "pleno" && $complex == "baixa") || ($exper == "pleno" && $complex == "media") || 
             ($exper == "senior" && $complex == "media") || ($exper == "senior" && $complex == "alta"))
             {
-                echo "<h3 class='mt-3'>O(a) " . $funcion . " está apto para executar o(a) " . $tarefa . "</h3>";
+                echo "<h3 class='mt-3'>O(a) " . $funcion . " está apto(a) para executar o(a) " . $tarefa . "</h3>";
             }
             else
             {
